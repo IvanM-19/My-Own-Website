@@ -1,0 +1,30 @@
+body {
+    background-color: #00b5e2;
+    color: #193be3;
+    font-family: Candara, Calibri, "Segoe UI", "Arial", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    margin: 0;
+    padding: 20px 0;
+    color: #ffffff;	
+}
+
+li {
+    display: inline;
+    margin: 20px;
+    text-align: left;
+    color: #ffffff;
+    font-size: 20px;
+    transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
